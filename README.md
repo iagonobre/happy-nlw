@@ -1,4 +1,6 @@
-<img src="src/images/logoGit.svg" align="center"/>
+<div align="center">
+  <img src="src/images/logoGit.svg" align="center"/>
+</div>
 
 # Happy - NLW#3
 
