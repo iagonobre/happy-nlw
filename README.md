@@ -1,5 +1,5 @@
 <header align="center">
-  <img src="src/images/logo.svg" align="center"/>  
+  <img src="src/images/logoGit.svg" align="center"/>
 </header>
 
 # Happy - NLW#3
