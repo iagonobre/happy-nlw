@@ -1,11 +1,13 @@
-<header align="center">
+<div align="center">
   <img src="src/images/logoGit.svg" align="center"/>
-</header>
+</div>
 
 # Happy - NLW#3
 
-Projeto desenvolvido durante a **NLW#3**, realizada pela **Rocketseat**.
-Confira o back-end
+Projeto desenvolvido durante a **NLW#3**, evento realizado pela **Rocketseat**.
+
+Leve felicidade para o mundo
+Visite orfanatos e mude o dia de muitas crianças.
 
 ## Técnologias 🚀
 
