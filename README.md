@@ -9,7 +9,7 @@ Projeto desenvolvido durante a **NLW#3**, evento realizado pela **Rocketseat**.
 Leve felicidade para o mundo
 Visite orfanatos e mude o dia de muitas crianças.
 
-## Técnologias 🚀
+## Tecnologias 🚀
 
 - ReactJS
 - NodeJS
